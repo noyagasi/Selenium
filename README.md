@@ -1,5 +1,4 @@
-# Selenium
-Selenium automation test using Java for Google Translate 
+# Selenium automation test using Java for Google Translate 
 
 How to use it:
 
